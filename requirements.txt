@@ -1,9 +1,4 @@
-# Bababa Tool
-
-Termux için basit kurulum ve çalıştırma:
-
-```bash
-git clone https://github.com/kayraakkoyun0-dotcom/bababa.git
-cd bababa
-python -m pip install -r requirements.txt --upgrade
-python main.py
+requests
+geocoder
+tqdm
+colorama
